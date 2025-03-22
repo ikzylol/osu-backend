@@ -1,0 +1,8 @@
+# .env file to keep sensitive information private
+.env
+
+# Node modules directory
+node_modules/
+
+# Logs and temporary files
+*.log
